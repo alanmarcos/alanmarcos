@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CredPago](https://www.credpago.com.br)
+- 🔭 I’m a front-end developer currently working on [CredPago](https://www.credpago.com.br)
 - 🌱 I’m currently learning GraphQL and GSAP
 - 📫 Reach me in: alan@alanmarcos.me
 - 🎧 Discord: `norvana#1157`
