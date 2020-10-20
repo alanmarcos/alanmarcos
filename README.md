@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a front-end developer currently working on [CredPago](https://www.credpago.com.br)
-- 🌱 I’m currently learning GraphQL and GSAP
+- 🌱 I’m currently learning Svelte, GraphQL and GSAP
 - 📫 Reach me in: alan@alanmarcos.me
 - 🎧 Discord: `norvana#1157`
 - 🖱 My links: 
